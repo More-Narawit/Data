@@ -1,4 +1,4 @@
-[{"id":10001,"name":"Henri Beasant","role":"Officer","password":"pass"},
+[{"id":10001,"name":"Henri Beasant","role":"SuperAdmin","password":"pass"},
 {"id":10002,"name":"Edan Caddan","role":"Officer","password":"pass"},
 {"id":10003,"name":"Dannye Cuardall","role":"Officer","password":"pass"},
 {"id":10004,"name":"Harrietta Shepeard","role":"Officer","password":"pass"},
